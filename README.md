@@ -16,4 +16,4 @@ Visualization
   Pie Chart: Share of Total
 
 **i. Tableau**
-<img width="1911" height="951" alt="image" src="https://github.com/user-attachments/assets/8306ce6d-b5dc-4240-a591-26afbb2063f8" />
+<img width="1908" height="940" alt="image" src="https://github.com/user-attachments/assets/13b2f840-b175-4442-a9b7-63becccd5777" />
